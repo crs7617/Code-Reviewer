@@ -1,4 +1,4 @@
-Sure! Here's a detailed and aesthetically pleasing GitHub README for your Automated Code Review Tool project. This README includes sections for an overview, features, installation, usage, and more.
+
 
 ---
 
