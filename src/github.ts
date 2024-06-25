@@ -1,6 +1,6 @@
 import { Octokit } from '@octokit/rest';
 
-const octokit = new Octokit({ auth: `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` });
+const octokit = new Octokit({ auth: `add your github key here` });
 
 export const getRepository = async (owner: string, repo: string) => {
     try {
