@@ -3,7 +3,7 @@ import Configuration, { ClientOptions } from 'openai';
 import { OpenAI } from 'openai';
 
 const configuration = new Configuration({
-    apiKey: 'sk-proj-ZmwjIT03D6f3XL59rLmOT3BlbkFJGsweUwB9n3BOl8pSycVq',
+    apiKey: 'add your open ai key here please',
 });
 
 const openai = new OpenAI(configuration as any) as any;
