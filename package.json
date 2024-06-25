@@ -20,8 +20,11 @@
   },
   "dependencies": {
     "@octokit/rest": "^20.1.1",
+    "@types/axios": "^0.14.0",
+    "axios": "^1.7.2",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "openai": "^4.52.0",
     "redis": "^4.6.14"
